@@ -40,7 +40,7 @@ Enter `cmd + U` to run the tests.
 - Momoji map markers do not always match user's choice when they were created.
 
 ##Screenshots
-![login page](https://www.dropbox.com/s/rkqygh1beof2dx4/Screenshot%202016-04-04%2019.40.05.png?raw=1)
+![login page](https://www.dropbox.com/s/rkqygh1beof2dx4/Screenshot%202016-04-04%2019.40.05.png?raw=1 =100x250)
 ![map view](https://www.dropbox.com/s/h7n0cqel7aqcmea/Screenshot%202016-04-04%2019.41.20.png?raw=1)
 ![create moment](https://www.dropbox.com/s/wz0msi12zoib46k/Screenshot%202016-04-04%2019.43.13.png?raw=1)
 
